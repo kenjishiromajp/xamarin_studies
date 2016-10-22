@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            x:Class="MOB_XF_Hello.Views.TabbedNavView"
+            Title="Tabbed Nav">
+  <TabbedPage.Children>
+    
+    <ContentPage Title="Vermelho">
+      <BoxView Color="Red" WidthRequest="280" HeightRequest="280" HorizontalOptions="Center" VerticalOptions="Center" />
+    </ContentPage>
+
+    <ContentPage Title="Verde">
+      <BoxView Color="Green" WidthRequest="280" HeightRequest="280" HorizontalOptions="Center" VerticalOptions="Center" />
+    </ContentPage>
+
+    <ContentPage Title="Azul">
+      <BoxView Color="Blue" WidthRequest="280" HeightRequest="280" HorizontalOptions="Center" VerticalOptions="Center" />
+    </ContentPage>
+    
+  </TabbedPage.Children>
+</TabbedPage>
