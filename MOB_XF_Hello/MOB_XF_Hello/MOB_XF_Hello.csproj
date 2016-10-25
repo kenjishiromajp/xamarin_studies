@@ -57,6 +57,15 @@
     <Compile Include="Views\TabbedNavView.xaml.cs">
       <DependentUpon>TabbedNavView.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Views\TabPage1.xaml.cs">
+      <DependentUpon>TabPage1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TabPage2.xaml.cs">
+      <DependentUpon>TabPage2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TabPage3.xaml.cs">
+      <DependentUpon>TabPage3.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
@@ -108,6 +117,24 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Views\TabbedNavView.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Views\TabPage1.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Views\TabPage2.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Views\TabPage3.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
