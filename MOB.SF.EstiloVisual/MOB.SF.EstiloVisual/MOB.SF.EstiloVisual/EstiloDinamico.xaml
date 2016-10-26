@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MOB.SF.EstiloVisual.EstiloDinamico">
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <Style x:Key="TextoAzul" TargetType="SearchBar">
+        <Setter Property="TextColor" Value="Blue" />
+      </Style>
+      <Style x:Key="TextoBranco" TargetType="SearchBar">
+        <Setter Property="TextColor" Value="White" />
+      </Style>
+    </ResourceDictionary>
+  </ContentPage.Resources>
+  <ContentPage.Content>
+    <StackLayout Padding="20">
+      <SearchBar Placeholder="Pesquisa" Style="{DynamicResource estiloDinamico}"/>
+      <Button Text="Alterar o Estilo" Clicked="OnClicked_AlterarEstilo" />
+      <Label Text="{DynamicResource hora}" />
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>

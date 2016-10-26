@@ -1,2 +1,2 @@
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Windows\MVVMPattern.Windows.csproj;neutral
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern\MVVMPattern.csproj;neutral
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Windows\MVVMPattern.Windows.csproj;neutral
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\MVVMPattern.csproj;neutral

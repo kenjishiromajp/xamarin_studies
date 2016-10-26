@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MOB.SF.EstiloVisual.EstiloSimplesView">
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <!-- Explícito -->
+      <Style x:Key="BotaoAzul" TargetType="Button">
+        <Setter Property="HorizontalOptions" Value="Center" />
+        <Setter Property="VerticalOptions" Value="Center" />
+        <Setter Property="BackgroundColor" Value="Blue" />
+        <Setter Property="TextColor" Value="White" />
+        <Setter Property="FontSize" Value="Small" />
+      </Style>
+      
+      <!-- Implícito-->
+      <Style TargetType="Label">
+        <Setter Property="HorizontalOptions" Value="Center" />
+        <Setter Property="VerticalOptions" Value="Center" />
+        <Setter Property="BackgroundColor" Value="Blue" />
+        <Setter Property="TextColor" Value="White" />
+        <Setter Property="FontSize" Value="Small" />
+      </Style>
+      <!-- Herdar um estilo a partir de um modelo base -->
+      <Style x:Key="baseEstilo" TargetType="View">
+        <Setter Property="HorizontalOptions" Value="Center" />
+        <Setter Property="VerticalOptions" Value="Center" />
+      </Style>
+      <Style x:Key="caixaTexto" TargetType="Entry" BasedOn="{StaticResource baseEstilo}">
+        <Setter Property="TextColor" Value="Red" />
+        <Setter Property="BackgroundColor" Value="Aqua" />
+      </Style>
+    </ResourceDictionary>
+  </ContentPage.Resources>
+
+  <ContentPage.Content>
+    <StackLayout>
+      <Label Text="Bem bindo Xamarin Forms" />
+      <Entry Placeholder="Informe seu nome" Style="{StaticResource caixaTexto}" />
+      <Button Text="Clique Aqui" Style="{StaticResource BotaoAzul}" />
+    </StackLayout>
+  </ContentPage.Content>
+  
+</ContentPage>

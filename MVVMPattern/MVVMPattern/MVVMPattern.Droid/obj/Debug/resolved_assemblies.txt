@@ -1,44 +1,44 @@
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\MVVMPattern.Droid.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\FormsViewGroup.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.CardView.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Java.Interop.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Mono.Android.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\mscorlib.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Core.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Xml.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Xml.Linq.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\MVVMPattern.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Runtime.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Collections.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Diagnostics.Debug.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.ObjectModel.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Globalization.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Linq.Expressions.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.ComponentModel.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Reflection.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Dynamic.Runtime.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Threading.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.IO.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Runtime.Extensions.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Linq.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Reflection.Extensions.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Net.Http.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Text.RegularExpressions.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Collections.Concurrent.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Runtime.InteropServices.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Diagnostics.Tools.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\MVVMPattern.Droid.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\FormsViewGroup.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Java.Interop.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\Mono.Android.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\mscorlib.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Core.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Xml.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Xml.Linq.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\MVVMPattern.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Runtime.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Collections.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Diagnostics.Debug.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.ObjectModel.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Globalization.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Linq.Expressions.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.ComponentModel.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Reflection.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Dynamic.Runtime.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Threading.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.IO.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Runtime.Extensions.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Linq.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Reflection.Extensions.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Net.Http.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Text.RegularExpressions.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Collections.Concurrent.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Runtime.InteropServices.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern.Droid\obj\Debug\android\assets\System.Diagnostics.Tools.dll

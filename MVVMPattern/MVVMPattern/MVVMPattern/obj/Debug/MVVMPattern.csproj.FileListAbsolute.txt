@@ -11,5 +11,16 @@ c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\M
 c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern.pdb
 c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern.dll.mdb
 c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern\bin\Debug\MVVMPattern.dll.mdb
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern.dll.mdb
-c:\users\mob_uwp\documents\visual studio 2015\Projects\MVVMPattern\MVVMPattern\MVVMPattern\bin\Debug\MVVMPattern.dll.mdb
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\bin\Debug\MVVMPattern.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\bin\Debug\MVVMPattern.pdb
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern.csprojResolveAssemblyReference.cache
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern.View.AlunoViewPage.xaml.g.cs
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern.dll
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern.pdb
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern.dll.mdb
+C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\bin\Debug\MVVMPattern.dll.mdb
