@@ -22,5 +22,3 @@ C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\obj
 C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern.View.AlunoViewPage.xaml.g.cs
 C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern.dll
 C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern.pdb
-C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\obj\Debug\MVVMPattern.dll.mdb
-C:\Users\MOB_UWP\Desktop\xamarin_studies\MVVMPattern\MVVMPattern\MVVMPattern\bin\Debug\MVVMPattern.dll.mdb
