@@ -36,11 +36,18 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
+    <Compile Include="EntryValidarInteiro.cs" />
     <Compile Include="EstiloDinamico.xaml.cs">
       <DependentUpon>EstiloDinamico.xaml</DependentUpon>
     </Compile>
     <Compile Include="EstiloSimplesView.xaml.cs">
       <DependentUpon>EstiloSimplesView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MessagingPage1.xaml.cs">
+      <DependentUpon>MessagingPage1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MessagingPage2.xaml.cs">
+      <DependentUpon>MessagingPage2.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TriggerPageView.xaml.cs">
@@ -79,6 +86,24 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="TriggerPageView.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MessagingPage1.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MessagingPage2.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AppXAML.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>

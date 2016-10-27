@@ -7,25 +7,12 @@ using Xamarin.Forms;
 
 namespace MOB.SF.EstiloVisual
 {
-    public class App : Application
+    public partial class App : Application
     {
         public App()
         {
-            // The root page of your application
-            MainPage = new NavigationPage(new TriggerPageView());
-            //MainPage = new ContentPage
-            //{
-            //    Content = new StackLayout
-            //    {
-            //        VerticalOptions = LayoutOptions.Center,
-            //        Children = {
-            //            new Label {
-            //                HorizontalTextAlignment = TextAlignment.Center,
-            //                Text = "Welcome to Xamarin Forms!"
-            //            }
-            //        }
-            //    }
-            //};
+            InitializeComponent();
+            MainPage = new NavigationPage(new MessagingPage1());
         }
 
         protected override void OnStart()
